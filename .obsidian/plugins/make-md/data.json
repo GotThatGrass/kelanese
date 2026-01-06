@@ -38,10 +38,7 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Tags",
     "//Languages/Languages/Kelanic",
-    "//World/World/Oceans",
-    "//World/World/Lands",
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/2. Phonology",
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese",
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Reference Grammar",
@@ -50,7 +47,12 @@
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Dictionary/Languages/Kelanic/Kelanese/Dictionary/Verbs",
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Dictionary/Languages/Kelanic/Kelanese/Dictionary/Nouns",
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Dictionary/Languages/Kelanic/Kelanese/Dictionary/Pronouns",
-    "/"
+    "/",
+    "//World",
+    "//World/World/Oceans",
+    "//World/World/Lands",
+    "//World/World/Lands/World/Lands/Kelan",
+    "//Languages"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
