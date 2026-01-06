@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "490de270fa44da4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "323169088d15366e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2569f20f94409aa4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcd45ac75d8277fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "60f35da4a61ad203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2f31176b4a8538d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5c90b0456ab3d39e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3dd60e6c53e6a228",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cda717294c510ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "071daf578ce5f45a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f99b66752591b4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Languages/Okyanic-Kakian/Bolang/Bôlanguneş/II. Morphology/7. Nominal System.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 7. Nominal System"
+            }
+          },
+          {
+            "id": "e4597ddf3296c745",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Languages/Okyanic-Kakian/Bolang/Bôlanguneş/II. Morphology/7. Nominal System.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 7. Nominal System"
+            }
+          },
+          {
+            "id": "1f363de0e907ea9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "66b1c4ee446c39e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Languages/Okyanic-Kakian/Bolang/Bôlanguneş/II. Morphology/7. Nominal System.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7. Nominal System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2569f20f94409aa4",
+  "lastOpenFiles": [
+    "Languages/Kelanic/Kelanese",
+    "Languages/Kelanic/Bolang/Bôlanguneş/II. Morphology/7. Nominal System.md",
+    "Languages/Kelanic/Untitled.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/II. Morphology/6. Word Structure Overview.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/IV. Semantics/18. Metaphor & Idiom.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/IV. Semantics/16. Semantic Categories.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/IV. Semantics/17. Polarity & Emotion.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/III. Syntax/15. Sentence Examples.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/III. Syntax/14. Focus & Emphasis.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/III. Syntax/13. Questions & Commands.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/III. Syntax/12. Clause Structures.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/III. Syntax/11. Basic Word Order.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/II. Morphology/10. Pronouns & Deixis.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/II. Morphology/9. Derivation.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/II. Morphology/8. Predicate System.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/I. Phonology/2. Phonotactics.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/I. Phonology/5. Stress, Tone, and Prosody.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/I. Phonology/4. Orthography.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/I. Phonology/3. Allophony.md",
+    "Languages/Kelanic/Bolang/Bôlanguneş/I. Phonology/1. Phonemic Inventory.md",
+    "Languages/Kelanic/Bolang/Cebau"
+  ]
+}

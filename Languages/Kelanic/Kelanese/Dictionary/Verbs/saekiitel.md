@@ -1,0 +1,1 @@
+1. to think of; to come up with

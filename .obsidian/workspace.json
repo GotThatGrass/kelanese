@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "182bdb2d5274b857",
+    "type": "split",
+    "children": [
+      {
+        "id": "80bdd378bcd9c10c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ee17d65ed308e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Kelanic/Kelanese/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "8e3059497388fc1e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
+              "icon": "lucide-file",
+              "title": "Cancri"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9aae8e3eeb85bc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0f3f4d97f3e9a70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7965e71d84436b4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87d67dd8acbb8c1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8ffba36351eb2eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7070912f8904c93e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58838cd40e8ade35",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc138734f4d2a671",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f18c8a354667183",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Languages/Kelanic/Kelanese/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction"
+            }
+          },
+          {
+            "id": "75627ae5a3655ec0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Languages/Kelanic/Kelanese/Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction"
+            }
+          },
+          {
+            "id": "03eb4ad390fa39d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "409e417dc4239d49",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fe01afee7c9c0b7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Languages/Kelanic/Kelanese/Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction"
+            }
+          },
+          {
+            "id": "49d4e39b21acefa6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "afafe819a8faca91",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8e3059497388fc1e",
+  "lastOpenFiles": [
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/rah.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/neziileut.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/neleut.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/xoziileut.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/neg.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/xozii.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/xoeleut.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/xoe.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/rahziileut.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/rahzii.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/rahleut.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/Pronouns.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns/nezii.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Pronouns",
+    "Languages/Kelanic/Kelanese/Dictionary/Dictionary.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Nouns/mau.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Untitled.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Nouns/Nouns.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Verbs/saenutel.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Verbs/saekiitel.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Verbs/saehitel.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Verbs/nutel.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Verbs/saetel.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Verbs/gotel.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Verbs/Verbs.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Verbs/taenntel.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Verbs/xonltel.md",
+    "Languages/Kelanic/Kelanese/Dictionary/Nouns",
+    "Languages/Kelanic/Kelanese/Dictionary/Verbs",
+    "Languages/Kelanic/Kelanese/Dictionary",
+    "Languages/Kelanic/Kelanese/Reference Grammar",
+    "Tags",
+    "Languages/Kelanic/Kelanese/Reference Grammar/2. Phonology",
+    "World/Oceans",
+    "World/Lands/Kelan/Geography",
+    "World"
+  ]
+}
