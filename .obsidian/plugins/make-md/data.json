@@ -43,7 +43,6 @@
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese",
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Reference Grammar",
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Reference Grammar/Languages/Kelanic/Kelanese/Reference Grammar/2. Phonology",
-    "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Dictionary",
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Dictionary/Languages/Kelanic/Kelanese/Dictionary/Verbs",
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Dictionary/Languages/Kelanic/Kelanese/Dictionary/Nouns",
     "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Dictionary/Languages/Kelanic/Kelanese/Dictionary/Pronouns",
@@ -52,7 +51,8 @@
     "//World/World/Oceans",
     "//World/World/Lands",
     "//World/World/Lands/World/Lands/Kelan",
-    "//Languages"
+    "//Languages",
+    "//Languages/Languages/Kelanic/Languages/Kelanic/Kelanese/Languages/Kelanic/Kelanese/Dictionary"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
