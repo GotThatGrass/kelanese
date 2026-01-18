@@ -1,9 +1,0 @@
-.trash/
-.space/
-
-# Obsidian personal state
-.obsidian/workspace.json
-
-# OS junk
-.DS_Store
-Thumbs.db
